@@ -33,10 +33,10 @@ This project explores the potential of Gallium Nitride (GaN) as a material for n
 
 This repository includes documents providing a structured understanding of each phase of the project:
 
-- **[Short Abstract](#)**: A concise overview of GaN’s material properties and theoretical feasibility as a neutron detector.
-- **[Long Abstract](#)**: Detailed analysis of GaN’s detection mechanism, fabrication techniques, and the expected benefits, with an outline of potential experimental approaches.
+- **[Short Abstract](https://github.com/username/repo-name/blob/main/Short_Abstract.md)**: A concise overview of GaN’s material properties and theoretical feasibility as a neutron detector.
+- **[Long Abstract](https://github.com/username/repo-name/blob/main/Long_Abstract.md)**: Detailed analysis of GaN’s detection mechanism, fabrication techniques, and the expected benefits, with an outline of potential experimental approaches.
 - **Presentation Files**:
-  - **PDF** and **PPT** formats contain visual aids and schematic diagrams to help explain GaN’s properties and detection mechanisms based on literature.
+  - **[PDF](https://github.com/username/repo-name/blob/main/Presentation.pdf)** and **[PPT](https://github.com/username/repo-name/blob/main/Presentation.pptx)** formats contain visual aids and schematic diagrams to help explain GaN’s properties and detection mechanisms based on literature.
 
 ---
 
